@@ -89,4 +89,7 @@ SELECT age, desired_salary
 FROM resumes;
 ```
 
+## Если не отображается в github, то вот статичная версия
+![Карта вакансий](map1.png)
+![Карта вакансий2](map1.png)
 
