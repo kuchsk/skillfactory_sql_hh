@@ -75,7 +75,7 @@ Profession Data Science - SQL - Analysis of resumes from HeadHunter
 
 ## Результаты
 
-- Результаты анализа представлены в Jupyter Notebook `skillfactory_slq_hh_analise.ipynb`.
+- Результаты анализа представлены в Jupyter Notebook [отсюда](https://github.com/kuchsk/skillfactory_sql_hh/blob/main/skillfactory_slq_hh_analise.ipynb).`skillfactory_slq_hh_analise.ipynb`.
 
 
 ## Автор
